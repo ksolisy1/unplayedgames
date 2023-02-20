@@ -1,4 +1,4 @@
-# unplayedgames
+# Unplayed Steam Games
 
 Analysis of a Steam games dataset from Kaggle. This analysis was part of CareerFoundry's Data Analystics Program course requirements.
 
